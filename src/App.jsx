@@ -1,14 +1,11 @@
-import { useState } from "react";
 import "./App.css";
-import Board from "./Board";
+import Tesbih from "./Tesbih";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <div className="">
-        <Board />
+        <Tesbih />
       </div>
     </>
   );
