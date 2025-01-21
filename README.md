@@ -105,8 +105,7 @@ Les contributions sont les bienvenues !
    ```
 5. Créez une pull request.
 
-## Licence
-Ce projet est sous licence [MIT](LICENSE).
+
 
 ---
 
